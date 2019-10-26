@@ -1,0 +1,1 @@
+/home/train/web/viet.magento.dev/public_html/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js

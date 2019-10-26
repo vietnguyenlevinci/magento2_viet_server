@@ -1,0 +1,1 @@
+/home/train/web/viet.magento.dev/public_html/vendor/magento/module-page-cache/view/frontend/web/js/page-cache.js

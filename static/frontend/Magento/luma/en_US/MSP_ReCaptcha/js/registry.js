@@ -1,0 +1,1 @@
+/home/train/web/viet.magento.dev/public_html/vendor/msp/recaptcha/view/frontend/web/js/registry.js

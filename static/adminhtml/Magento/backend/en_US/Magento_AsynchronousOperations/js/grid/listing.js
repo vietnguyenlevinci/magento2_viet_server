@@ -1,0 +1,1 @@
+/home/train/web/viet.magento.dev/public_html/vendor/magento/module-asynchronous-operations/view/adminhtml/web/js/grid/listing.js

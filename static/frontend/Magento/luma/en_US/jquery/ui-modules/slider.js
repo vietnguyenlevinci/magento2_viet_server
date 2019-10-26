@@ -1,0 +1,1 @@
+/home/train/web/viet.magento.dev/public_html/lib/web/jquery/ui-modules/slider.js

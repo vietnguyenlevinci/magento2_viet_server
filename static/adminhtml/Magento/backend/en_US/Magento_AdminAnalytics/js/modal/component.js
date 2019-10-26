@@ -1,0 +1,1 @@
+/home/train/web/viet.magento.dev/public_html/vendor/magento/module-admin-analytics/view/adminhtml/web/js/modal/component.js

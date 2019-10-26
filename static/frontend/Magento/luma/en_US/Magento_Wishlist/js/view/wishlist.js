@@ -1,0 +1,1 @@
+/home/train/web/viet.magento.dev/public_html/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js

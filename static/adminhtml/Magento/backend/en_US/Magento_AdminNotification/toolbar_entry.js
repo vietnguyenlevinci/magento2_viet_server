@@ -1,0 +1,1 @@
+/home/train/web/viet.magento.dev/public_html/vendor/magento/module-admin-notification/view/adminhtml/web/toolbar_entry.js
